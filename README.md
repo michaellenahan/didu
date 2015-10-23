@@ -44,6 +44,4 @@ Initialized empty Git repository in /home/michael/workspace/didu/.git/
 
 -- now you should be able to go to http://didu.local and log in as user admin password admin
 
--- set 
-➜  didu git:(master) drupal list | grep site
-
+-- you can see all the other changes here: https://github.com/michaellenahan/didu
